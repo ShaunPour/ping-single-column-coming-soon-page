@@ -1,0 +1,64 @@
+.container,form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-txt {
+    color: hsl(0, 0%, 59%);
+    font-weight: normal;
+}
+
+.soon {
+    color: hsl(209, 33%, 12%);
+    font-weight: bold;
+}
+
+#img-preview {
+    width: 95vw;
+}
+
+input,button {
+    border-radius: 15px;
+    width: 80vw;
+    padding: 10px;
+}
+
+button {
+    background-color: hsl(223, 87%, 63%);
+    color: hsl(223, 100%, 100%);
+    margin-top: 5em;
+    cursor: pointer;
+}
+form {
+    margin-bottom: 7em;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
+.copy-txt {
+    color: hsl(0, 0%, 59%);
+}
+
+.error-input {
+    border: 1px solid hsl(354, 100%, 66%);
+}
+
+.error-txt {
+    color: hsl(354, 100%, 66%);
+    display: initial;
+    position: absolute;
+    top: 8.6em;
+}
+
+.hide {
+    display: none;
+}
+
+.error-input-hide {
+    border: 1px solid black;
+}
