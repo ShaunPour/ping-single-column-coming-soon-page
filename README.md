@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/DarkPhoenixNinja92/ping-single-column-coming-soon-page)
-- Live Site URL: [Live Site](https://DarkPhoenixNinja92.github.io/ping-single-column-coming-soon-page)
+- Solution URL: [GitHub Repository](https://github.com/shaunpour/ping-single-column-coming-soon-page)
+- Live Site URL: [Live Site](https://shaunpour.github.io/ping-single-column-coming-soon-page)
 
 ### Built with
 
